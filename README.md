@@ -34,8 +34,8 @@ Write db access functions in `api/schemes/scheme-model.js` following the instruc
 
 - [x] `find`
 - [x] `findById`
-- [ ] `findSteps`
-- [ ] `add`
+- [x] `findSteps`
+- [x] `add`
 - [ ] `addStep`
 
 #### Schemes Schema
